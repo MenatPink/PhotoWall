@@ -1,2 +1,0 @@
-# PhotoWall
-Created with CodeSandbox
